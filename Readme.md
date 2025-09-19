@@ -88,32 +88,3 @@ Or download the zip file and extract it.
    ```
 4. Access the admin interface via the localhost link in the console.
 
-### 4. Screenshots
-Here is a walkthrough of the "SwishFood" application with screenshots for key functionalities:
-
-#### User Interface
-- **Home Page**  
-  ![User Home Page](Project_Screenshots/UserHomePage.png)
-
-- **Menu**  
-  ![Menu](Project_Screenshots/Menu.png)
-
-- **Cart View**  
-  ![Cart View](Project_Screenshots/Cart_View.png)
-
-- **My Orders**  
-  ![My Orders](Project_Screenshots/MyOrders.png)
-
-- **Stripe Payment**  
-  ![Stripe Payment](Project_Screenshots/Stripe_Payment.png)
-
-#### Admin Interface
-- **Add Products**  
-  ![Admin Add Products](Project_Screenshots/Admin_AddProducts.png)
-
-- **List Items**  
-  ![Admin List Items](Project_Screenshots/Admin_ListItems.png)
-
-- **Orders View**  
-  ![Admin Orders View](Project_Screenshots/Admin_OrdersView.png)
-
