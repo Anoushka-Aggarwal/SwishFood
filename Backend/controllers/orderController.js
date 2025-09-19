@@ -61,7 +61,7 @@ import Stripe from 'stripe'
 //     }
 // }
 const placeOrder = async (req,res) => {
-    const frontend_url = "http://localhost:5174";
+const frontend_url = process.env.FRONTEND_URL || "http://localhost:5174";
 
     try {
         const newOrder = new orderModel({
